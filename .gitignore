@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+data/
+.env
+*.db
+tick_data_tcp.csv
+.idea
+venv
